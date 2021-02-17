@@ -1,0 +1,29 @@
+body { font-family:'Pangolin', 'cursive'; }
+
+.encabezado { padding: 5px; margin: 1px;  
+    background-color: white; overflow: hidden; display: flex;
+}
+
+#img1 {width: 100px; height: 100px; padding-left: 10px; background-color: white; position: relative; float: right; object-position: right; 
+
+}
+
+#h1 { width: 370px; height: 100px; object-position: left; background-color: white;
+}
+
+.cuerpo { padding: 5px; margin: 1px;  
+    background-color: white; overflow: hidden; display: flex; 
+}
+    
+#p1 {width: 175px; height: 200px; object-position: left; background-color: white; text-align: justify;
+}
+
+#input {width: 175px; height: 200px; padding: 50px 0 0 10px ;background-color: white; position: relative; float: right; object-position: right;object-position: center;}
+input { border: none; border-bottom: 1px solid; object-position: top;
+
+}
+
+
+button {background-color: gray; strong; display: flex; border: 1px solid black; margin-left: 30%; margin-top: 10px ;
+}
+
